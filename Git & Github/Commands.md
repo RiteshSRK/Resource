@@ -18,12 +18,12 @@ git config --global user.email "someone@email.com"
 git init  
 ```
 
-```js
-//  Cloning a repository on our local machine
+```bash
+# Cloning a repository on our local machine
 git clone <-some link->
 ```
 
-```git
+```bash
 # Display the state of the code
 git status
 ```
