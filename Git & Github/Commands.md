@@ -23,7 +23,7 @@ git init
 git clone <-some link->
 ```
 
-```bash
+```git
 # Display the state of the code
 git status
 ```
