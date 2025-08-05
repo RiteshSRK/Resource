@@ -1,6 +1,6 @@
 # Let's Create our Github Account
 
-- _Create a new account_ **or** _log in_
+- ***Create a new account*** or ***log in***
 - Create a new ***repository***:
 
 ## Configoring Git
@@ -11,7 +11,7 @@ git config --global user.name "Your Name"
 git config --global user.email "someone@email.com"
 ```
 
-## Basic commands
+## Clone commands
 
 ```js
 //  Cloning a repository on our local machine
@@ -40,7 +40,7 @@ git add .
 git commit -m "some massage"
 ```
 
-```bash
+```js
 # Upload local repo content to Remote repo
 git push origin main
 ```
