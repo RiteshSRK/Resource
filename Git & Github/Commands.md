@@ -41,7 +41,7 @@ git commit -m "some massage"
 ```
 
 ```js
-# Upload local repo content to Remote repo
+// Upload local repo content to Remote repo
 git push origin main
 ```
 
