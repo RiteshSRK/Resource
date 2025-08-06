@@ -227,4 +227,4 @@ Free & Open Source **Version Control System**
 ## What is Github?
 Website where we host **repositories online**
 
-Made with ❤️ by (Ritesh Gupta)[https://github.com/RiteshSRK]
+Made with ❤️ by [Ritesh Gupta](https://github.com/RiteshSRK)
