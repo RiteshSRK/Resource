@@ -59,3 +59,5 @@ Used to create files
 
 - **removes any folders:**
 `rm-rf`
+
+Made with ❤️ by [Ritesh Gupta](https://github.com/RiteshSRK)
