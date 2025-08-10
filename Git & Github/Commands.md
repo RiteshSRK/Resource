@@ -18,8 +18,8 @@ git config --global user.email "someone@email.com"
 git init  
 ```
 
-```js
-//  Cloning a repository on our local machine
+```bash
+# Cloning a repository on our local machine
 git clone <-some link->
 ```
 
@@ -226,3 +226,5 @@ Free & Open Source **Version Control System**
 
 ## What is Github?
 Website where we host **repositories online**
+
+Made with ❤️ by [Ritesh Gupta](https://github.com/RiteshSRK)

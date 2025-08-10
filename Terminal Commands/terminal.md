@@ -62,3 +62,5 @@ Used to create files
 
 - paste in git bash
 `Shift + fn + Insert`
+
+Made with ❤️ by [Ritesh Gupta](https://github.com/RiteshSRK)
