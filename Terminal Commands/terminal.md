@@ -59,3 +59,6 @@ Used to create files
 
 - **removes any folders:**
 `rm-rf`
+
+- paste in git bash
+`Shift + fn + Insert`
