@@ -2,7 +2,8 @@
 > MongoDB is a NoSQL, document-based database that stores data in JSON-like documents.
 
 ## How to Install MongoDB?
-- You can set up MongoDB in two main ways:
+> You can set up MongoDB in two main ways :
+
 | Method                       | Description                                                                                                                                                 |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1. Local Installation**    | Install MongoDB directly on your system (Windows, macOS, Linux). Best for development and offline projects.                                                 |
