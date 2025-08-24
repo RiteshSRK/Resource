@@ -99,7 +99,7 @@ git push origin main
 ```
 
 ```bash
-# if error comes
+# Force Push (overwrite remote history)
 git push origin main --force
 ```
 

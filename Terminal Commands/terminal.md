@@ -67,4 +67,16 @@ Used to create files
 `Shift + fn + Insert`
 ```
 
+```bash
+# Open current directory in VS Code
+code .
+```
+
+```bash
+# VS Code → File Explorer
+explorer .
+```
+
+---
+
 Made with ❤️ by [Ritesh Gupta](https://github.com/RiteshSRK)
