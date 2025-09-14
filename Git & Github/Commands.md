@@ -131,6 +131,11 @@ git checkout -b <-new feature->
 git branch -d <-branch name->
 ```
 
+```bash
+# Change remote URL
+git remote set-url origin https://github.com/RiteshSRK/newJavaScript.git
+```
+
 ## Merging Code
 ### 1. Using git
 ```bash
