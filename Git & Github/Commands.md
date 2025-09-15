@@ -50,14 +50,36 @@ git commit -m "some massage"
 git push origin main
 ```
 
-```bash
-# First time push karte waqt use hota hai
-git push -u origin main
-```
 
 ```bash
 # View your commit history
 git log
+```
+
+## Link local `main` branch to remote `origin/main`
+
+```bash
+# First time push karte waqt use hota hai
+git push --set-upstream origin main
+```
+
+```bash
+# Short form of --set-upstream
+git push -u origin main
+```
+
+```bash
+# Local branch create ki
+git checkout -b feature-1
+
+# Pehli baar remote pe push kar rahe ho
+git push -u origin <-branch name->
+```
+
+```bash
+# then use 
+git push
+git pull
 ```
 
 ## Git have 4 type of file
