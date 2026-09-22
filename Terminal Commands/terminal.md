@@ -63,8 +63,8 @@ Used to create files
 ---
 
 ```bash
-# paste in git bash
-`Shift + fn + Insert`
+# Opens current folder
+start .
 ```
 
 ```bash
@@ -75,6 +75,11 @@ code .
 ```bash
 # VS Code → File Explorer
 explorer .
+```
+
+```bash
+# paste in git bash
+`Shift + fn + Insert`
 ```
 
 ---
