@@ -1,13 +1,13 @@
 # basic terminal Commands
 
-### Show all list file
-`ls`
+### Show all list file / folders in the current folder
+`ls` / `dir`
 
 ### show working directory ( where am i )
 `pwd`
 
 ### clear screen
-`clear`
+`clear` / `cls`
 
 ### Change directory
 `cd`
