@@ -70,6 +70,11 @@ Shift + Alt + ↓ / ↑
 ```
 
 ```bash
+# Inserts a blank new line below your current line
+Ctrl + Enter 
+```
+
+```bash
 # Toggle Line Comment
 Ctrl + / 
 ```
